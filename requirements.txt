@@ -1,0 +1,20 @@
+﻿# Grocery Inventory System Dependencies
+# Install with: pip install -r requirements.txt
+
+# Database
+SQLAlchemy>=2.0.25
+
+# Rich console output for beautiful CLI
+rich>=13.7.0
+
+# Date/time handling
+python-dateutil>=2.8.2
+
+# Email notifications (built-in, no extra package needed)
+# Using smtplib from standard library
+
+# Threading for real-time updates (built-in)
+# Using threading from standard library
+
+# Data validation
+pydantic>=2.5.3
