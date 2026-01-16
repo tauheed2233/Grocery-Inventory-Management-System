@@ -4,7 +4,7 @@
 
 <img width="1100" height="253" alt="img3" src="https://github.com/user-attachments/assets/3e07aaac-2210-414d-bf6a-91d6339cda31" />
  
-# Grocery Inventory System
+# Inventory Management System (Grocery) 
 
 A command-line inventory management system for grocery stores built with Python.
 
